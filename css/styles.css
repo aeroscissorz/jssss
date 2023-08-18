@@ -18,3 +18,8 @@ h3{
 img{
     border-radius: 50%;
 }
+.hoverr:hover{
+    background-color: gold;
+    background-size: 20px;
+    width: 80px;
+}
